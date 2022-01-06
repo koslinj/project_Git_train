@@ -1,3 +1,5 @@
 # ninja log v5
 1	310	6631796047044080	CMakeFiles/project_Git_train.dir/main.cpp.obj	3208d64aeba9376e
 312	408	6631796048012505	project_Git_train.exe	9cae596c16a65c5b
+2	228	6631831465004989	CMakeFiles/project_Git_train.dir/main.cpp.obj	3208d64aeba9376e
+228	325	6631831465939414	project_Git_train.exe	9cae596c16a65c5b
